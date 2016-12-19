@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cricketScore</string>
+    <string name="run1">Run 1</string>
+    <string name="run4">Run 4</string>
+    <string name="run6">Run 6</string>
+    <string name="wideball">No ball/Wide</string>
+    <string name="Wicket">Wicket</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="Reset">Reset</string>
+</resources>
